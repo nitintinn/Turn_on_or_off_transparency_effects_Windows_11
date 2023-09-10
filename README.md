@@ -1,0 +1,3 @@
+# Turn_on_or_off_transparency_effects_Windows_11
+
+execute regedit file Turn_on_transparency_effects_Windows_11.reg to turn on transparency effect
